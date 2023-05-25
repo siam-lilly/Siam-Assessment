@@ -11,7 +11,7 @@ You are free to use the internet but must solve this task yourself.
 
 ## How to use
 
-Install [Git](https://git-scm.com/downloads) and [NodeJS](https://nodejs.org/en/) on your system.
+Install Git and Node.JS on your system.
 
 Verify that the above software has been downloaded correctly by executing the following commands in a terminal:
 
