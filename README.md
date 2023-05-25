@@ -8,8 +8,6 @@ This takehome task was developed in order to test the basic skillset of a JavaSc
 
 The task consists of backend and frontend functionalities.
 
-You aren’t expected to spend more than 30-60 minutes on this task (we respect your time, you don’t have to complete the task).
-
 You are free to use the internet but must solve this task yourself.
 
 During your interview you will be asked to present (in any way you like) your thought process on how you went about completing this task.
@@ -24,14 +22,14 @@ Verify that the above software has been downloaded correctly by executing the fo
 `node -v`\
 `npm -v`
 
-The above commands should print a version number in the console. If you receive a message like "**X** is not recognized as an internal or external command, operable program or batch file", it may be because the software has not been added to your PATH system variable. To add the software to the path variable, search “Edit the system environment variables” in the search box. Find the ‘Path’ variable in both the ‘User Variables’ and ‘Environment Variables’ sections and add the install location of the above software (_e.g. C:\Program Files\nodejs_). 
+The above commands should print a version number in the console.
 
 
 Create a repo in your GitHub account (do not fork via GitHub!).
 
 Then clone the contents of this repo into it:
 ```sh
-git clone https://github.com/Sampuddy/JavaScript-Challenge-master.git
+git clone https://github.com/tpage-lilly/Javascript-Dev-Challenge
 cd JavaScript-Challenge-master
 git remote rename origin upstream
 git remote add origin https://github.com/your_github_account/your-repo.git
@@ -60,7 +58,7 @@ Getting stock data has a **10% chance of failure** (by design). The application 
 
 ## Mission objectives
 
-* Make the spinner rotate using CSS3.
+* Make the spinner rotate using CSS3 - Please write custom CSS.
 * Query the backend for list of available stocks.
 * Query the backend for data about each stock.
 * Hide the spinner after all data is loaded.
@@ -71,7 +69,6 @@ Additional (if you have time)
 * Plot the stock data on the chart (as a line chart).
 
 ## Constraints
-
 * You are **not** to modify the code in `stocks.js`
 * The stocks API is designed to return errors sometimes. The application should gain the ability to cope with that.
 * You can use the provided mini-API for canvas operations, but you can also use other solution.
