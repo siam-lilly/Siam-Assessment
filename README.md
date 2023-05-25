@@ -1,6 +1,5 @@
-# Javascript Recruitment Task
+# Javascript Challenge 
 
-Javascript recruitment task
 
 ## Introduction
 
