@@ -9,8 +9,6 @@ The task consists of backend and frontend functionalities.
 
 You are free to use the internet but must solve this task yourself.
 
-During your interview you will be asked to present (in any way you like) your thought process on how you went about completing this task.
-
 ## How to use
 
 Install [Git](https://git-scm.com/downloads) and [NodeJS](https://nodejs.org/en/) on your system.
