@@ -39,9 +39,7 @@ Run the backend service and serve static files with the command `npm run start`.
 
 You can now begin development. To view and test the changes you have made, save the file and restart the local server by executing `npm run start` again (alternatively, install the ‘Live Server’ VS Code extension, or a similar extension if you are using another IDE, and you can view your changes in realtime).
 
-Once complete share your GitHub repo URL with your company contact.
-
-Then prepare whatever method you would like to present.
+Once complete share your GitHub repo URL.
 
 ## The application
 
