@@ -7,10 +7,12 @@
 </head>
 <body>
 <div>
-    <span class="spinner"></span>
+    <span id="hide_spinner" class="spinner"></span>
 </div>
 
 <canvas id="chart" width="1000" height="600"></canvas>
+
+<button class="data_loaded" onclick="hide_spinner()">Assuming the data loaded, click to proceed</button>
 
 <script src="scripts.js" defer></script>
 </body>

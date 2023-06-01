@@ -1,10 +1,36 @@
 .spinner{
   font-size: 140px;
+
 }
+
 .spinner:after {
   content: '◌';
+  position: absolute;
+  translate: 0rem -11rem;
+  animation: 2s 1 normal rotateSpinner;
+
 }
+
+@keyframes rotateSpinner {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(360deg);
+  }
+}
+
 
 #chart {
     border: 1px solid black;
+    position: absolute;
+    translate: 0rem 7rem;
+
+}
+
+.data_loaded{
+
+  position: absolute;
+  translate: 8rem 2rem;
+
 }
